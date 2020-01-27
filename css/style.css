@@ -379,14 +379,10 @@ p {
  }
 
  @media screen and (max-width: 768px) {
-  .nav-container {
-   margin: 20px;
-  }
   .search-container {
    display: none;
   }
   .body-container {
-   margin: 20px;
    display: flex;
    flex-direction: column;
   }
